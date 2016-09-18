@@ -119,7 +119,7 @@
 
 --------------------------------------------------------------------------------
 
-- **Presations attendus**
+- **Prestations attendus**
 
   - **Charte Grahique et charte editoriale**
 
