@@ -2,10 +2,10 @@
 
 - Nom de l'entreprise : **ACVE - Association Creons Votre Emploi**
 - Nom du projet : **www.acve.fr**
-- Personne à conacter dans l'Association : _**_
-- Adresse : _**_
-- Tel : _**_
-- Mail : _**_
+- Personne à contacter dans l'Association : Anne Laure
+- Adresse : 63 Avenue des martins, résidence Bel Canto appt. 21p, Plateau caillou 97460 Saint-Paul
+- Tel : 0693 40 73 78
+- Mail : creonsvotremploi@emailasso.net
 
 --------------------------------------------------------------------------------
 
@@ -14,14 +14,19 @@
   - **Présentation de l'entreprise** :
 
     - Son histoire:
-    - Sa taille (CA + nombre de salariés):
-    - Ses activités principales :
-    - Ses produits et services vendus :
+    - Sa taille (CA + nombre de salariés): 3-4 bénévoles et independants
+    - Date de création: Septembre 2015
+    - Ses activités principales : Formation / Orientation / Insertion
+    - Ses services vendus : Formations
 
   - **Son positionnement concurrentiel** :
 
-    - Qui sont vos 3 principaux concurrents :
-    - Quel est l'élément vous differenciant de votre activité / de votre communication ? :
+    - Qui sont vos 3 principaux concurrents : AFPAR / Formaou (Tampon)
+    - Quel est l'élément vous differenciant de votre activité / de votre communication ? : Le point fort: les gens créent leurs emplois à la fin de la formation ou un stage en fin de formation dans une entreprise.
+
+      - L'emplacement dans les hauts pour pouvoir recevoir un public venant des hauts.
+
+      - Communication: Flyers et document de communication.
 
 --------------------------------------------------------------------------------
 
@@ -29,44 +34,85 @@
 
   - **Quels sont les attentes ?** (on indique qu'est-ce que ACVE attends de ce site dans cette partie)
 
-    - Faire connaitre l'entreprise ?
-    - Vendre vos produits sur internet ?
-    - Donner à vos clients des conseils sur vos services
+    - Faire connaitre l'association
+    - Proposer des formations
+    - Donner à vos clients des conseils sur leurs avenir professionnel
     - Générer des contacts de nouveau prospects
+    - Présenter son histoire
+    - Prospecter en direct ou sur internet
 
   - **Quel est le contexte du projet ?**
 
     - Quel est l'element déclancheur du projet ?
+
+      - Le taux de chommage effarant à la Réunion
+
     - Dans quel contexte et de quel besoin est née le projet du site web ? (communication, juridique, commercial, marketing, organisationnel, stratégique, concurrentiel) ?
+
+      - Communiquer
+      - Que notre pensée et notre offre soir decrite precisémment.
 
   - **Quel est l'existant ?** (Liste des outils de communication physique ou interactif qui existent déjà ( logo et identité visuelle, plaquettes, courriers, prospectus, e-mails avec nom de domaine, affichage, PLV, site Web, intranet, extranet, blog, newsletter, compte sur les réseaux sociaux, etc.))
 
+    - Petite plaquette de presentation
+    - Prospectus (Flyer)
+    - Boite Mail
+    - Page Facebook
+    - Page Youtube
+
   - **Définir les outils à supprimer ou à conserver.**
 
+    - A conserver :
+
+      - Boite Mail
+      - Page Facebook
+      - Page Youtube
+
+    - A supprimer :
+
+      - Prospectus
+      - Petite plaquette de présentation
+
+    - A créer :
+
+      - Une nouvelle Boite mail (Gmail)
+      - Prospectus
+      - Petite plaquette de présentation
+      - Crowdfunding (?)
+
   - **Comment interfacer le nouveau site web avec l'existant ?**
+
+    -
 
 - **Le pilotage du projet**
 
   - **Indiquez ici quels seront les processus de validation** au sein de votre entreprise et qui se chargera des différentes missions suivantes :
 
     - Valider les phases de choix (graphisme, ergonomie, contenus)
+
+      - creonsvotremploi@emailasso.net
+
     - Valider le cahier des charges
+
+      - creonsvotremploi@emailasso.net
+
     - Veiller au respect des délais, fournir les contenus de base (textes, images, photos, videos).
+
+      - creonsvotremploi@emailasso.net
 
 - **Objectifs du site**
 
-  - **Indiquez les princiales vocations du site :**
+  - **Indiquez les principales vocations du site :**
 
-    - Site vitrine
-    - Support de communication ?
-    - Support de fidélisation ?
-    - Site d'information
+    - Site vitrine et d'information
+    - Support de communication
+    - Support de fidélisation
 
   - **Indiquez les principaux résultats attendus :**
 
     - Nombre de nouveaux prospects
     - Améliorer l'image de l'entreprise
-    - Inscrits club newsletter ?
+    - Inscrits club newsletter
     - Presenter les différentes formation de l'Association
 
 - **A qui s'adresse le site (les cibles)**
@@ -78,7 +124,7 @@
     - Importance de la cible (primaire, secondaire)
     - Centres d'interet de la cible (recherche d'information, besoin de services...)
 
-- **Arboorescence**
+- **Arborescence**
 
   - **Accueil**
 
@@ -124,7 +170,14 @@
   - **Charte Grahique et charte editoriale**
 
     - Quelle sera la charte graphique à respecter ?
-    - Qu'attentez-vous en terme de charte graphique ?
+
+      - Beaucoup de couleurs pour représenter la mixité
+      - Rectangle pour représenter la droiture
+
+    - Qu'attendez-vous en terme de charte graphique ?
+
+      -
+
     - Faudra-t-il créer une charte editoriale spécifique au web ?
 
       - les objectifs de la publication
